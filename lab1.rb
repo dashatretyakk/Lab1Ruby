@@ -1,3 +1,5 @@
+#variant 11
+
 include Math
 
 print "Enter φ: "
